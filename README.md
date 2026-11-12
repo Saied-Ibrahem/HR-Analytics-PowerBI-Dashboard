@@ -1,5 +1,4 @@
 # HR-Analytics-PowerBI-Dashboard
-# HR Analytics Dashboard - Full Insight (Power BI)
 
 An interactive two-page Power BI dashboard designed to help HR teams monitor workforce demographics, promotion readiness, retention risks, and employee satisfaction.
 
