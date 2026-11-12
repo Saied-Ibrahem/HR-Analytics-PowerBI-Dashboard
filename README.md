@@ -5,12 +5,10 @@ An interactive two-page Power BI dashboard designed to help HR teams monitor wor
 ## 📊 Dashboard Preview
 
 ### Home Page — Executive Overview
-![Home Page](<img width="1397" height="777" alt="Home Page" src="https://github.com/user-attachments/assets/ff958e23-4534-4788-8f4d-dc70c7e8e572" />
-)
+<img width="1397" height="777" alt="Home Page" src="https://github.com/user-attachments/assets/ff958e23-4534-4788-8f4d-dc70c7e8e572" />
 
 ### Details Page — Role & Performance Breakdown
-![Details Page](<img width="1367" height="768" alt="details page" src="https://github.com/user-attachments/assets/b0d25dd1-398d-42b4-88df-a6f179e4f208" />
-)
+<img width="1367" height="768" alt="details page" src="https://github.com/user-attachments/assets/b0d25dd1-398d-42b4-88df-a6f179e4f208" />
 
 ## 🎯 Project Objectives
 - Consolidate employee records, promotion tracking, and retrenchment datasets into a unified data model.
